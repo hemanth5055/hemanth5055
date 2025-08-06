@@ -1,9 +1,9 @@
-# 🧠 Hey, fellow dev !
+# Hey, there!
 
-I'm **Hemanth Reddy**, a dedicated web developer specializing in building **scalable**, **responsive**, and **user-focused** applications using modern technologies.
+I'm **Hemanth Reddy**, a committed web developer with a strong focus on crafting scalable, responsive, and user-centric applications.
 
 <div align="left">
-<img height="65" />
+  <img height="65" />
 
   <img src="https://skillicons.dev/icons?i=html" height="45" title="HTML" />
   <img width="0" />
@@ -15,6 +15,8 @@ I'm **Hemanth Reddy**, a dedicated web developer specializing in building **scal
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=react" height="45" title="React" />
   <img width="0" />
+  <img src="https://skillicons.dev/icons?i=next" height="45" title="Next.js" />
+  <img width="0" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="45" title="Node.js" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=express" height="45" title="Express.js" />
@@ -22,6 +24,8 @@ I'm **Hemanth Reddy**, a dedicated web developer specializing in building **scal
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" title="MongoDB" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=mysql" height="45" title="MySQL" />
+  <img width="0" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" title="Prisma" />
   <img width="0" />
   <img src="https://skillicons.dev/icons?i=java" height="45" title="Java" />
   <img width="0" />
@@ -42,15 +46,3 @@ I'm **Hemanth Reddy**, a dedicated web developer specializing in building **scal
   <img src="https://skillicons.dev/icons?i=notion" height="45" title="Notion" />
   <img width="0" />
 </div>
- <img height="10" />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth5055&layout=compact&theme=tokyonight" height="165" />
-</div>
-<img height="10" />
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanalahemanthrdy@gmail.com)
-
-</div>
-
-
